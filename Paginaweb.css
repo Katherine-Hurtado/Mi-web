@@ -1,0 +1,76 @@
+p.Info1 {
+    
+    color: #7C9D96;
+} 
+
+.Info1 {
+    font-size: medium;
+}
+.Info1Enlaces {
+    color: #7C9D96;
+}
+
+.Presentacion {
+    border: 5px #7C9D96 double;
+    border-radius: 100px;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div p {
+    color: #7C9D96;
+}
+
+div ol {
+    color: #7C9D96;
+}
+
+div h1 {
+    color: #A1CCD1
+}
+
+div h2 {
+    color: #E9B384
+}
+
+.Titulo_Presentación {
+    color: #7C9D96;
+}
+
+* { text-align: center;
+}
+
+/* Color de borde */
+.Aboutme {
+        border: 5px #A1CCD1 solid;
+        border-radius: 100px;
+        width: 800px; 
+        margin-left: auto;
+        margin-right: auto;        
+}
+
+.ImgKH {
+    width: 170px;
+    border-radius: 100px;
+}
+
+.Explaboral {
+    border: 5px #E9B384 double;
+    border-radius: 100px;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.contactbut {
+    border: 5px #A1CCD1 solid;
+    border-radius: 100px;
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+#fondo {background-color: #F4F2DE;
+    opacity: 0.3;
+}
